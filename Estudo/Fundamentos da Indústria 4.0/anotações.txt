@@ -1,3 +1,24 @@
 <-------------------- Fundamentos da Indústria 4.0 -------------------->
 
-a
+
+1784 - 1ª Revolução Industrial // Mecanização dos processos através da energia hidráulica e do vapor.
+
+1870 - 2ª Revolução Industrial // Início da produção em massa , proporcionada pela aplicação da energia elétrica.
+
+1969 - 3ª Revolução Industrial // Automação dos processos, através de CLP’s e introdução de robôs ao processo.
+
+Hoje - 4ª Revolução Industria // Processos autônomos proporcionados por tecnologias cibernéticas.
+
+
+Segundo o relatório do BCG (Boston Consulting Group), são nove as principais tecnologias da Indústria 4.0:
+
+1 - SEGURANÇA DA INFORMAÇÃO
+2 - REALIDADE AUMENTADA
+3 - BIG DATA
+4 - ROBÔSAUTÔNOMOS
+5 - SIMULAÇÕES
+6 - MANUFATURA ADITIVA
+7 - SISTEMAS INTEGRADOS
+8 - COMPUTAÇÃO EM NUVEM
+9 - INTERNET DAS COISAS
+
