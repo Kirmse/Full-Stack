@@ -1,2 +1,10 @@
 <-------------------- Versionamento -------------------->
 
+VERSIONAMENTO DE CÓDIGO - é realizado por um sistema de controle de versões. 
+
+- No Sistema de Controle de Versão Centralizado (CVCS), apenas um único local armazena o histórico 
+completo de alterações e, portanto, as estações de trabalho devem passar primeiro pelo servidor central 
+para comunicarem-se.
+
+- No Sistema de Controle de Versão Distribuído (DVCS) há uma cópia de todo o trabalho desenvolvido com 
+o histórico completo de todas as alterações feitas na máquina de cada desenvolvedor.
