@@ -39,3 +39,12 @@ Tradicionais	                                         Ágeis
 - Sem a previsibilidade de eventuais problemas	         - Contempla possíveis mudanças ao longo do processo
 - Resultado é entregue uma única vez	                 - Entregas parciais ao longo do processo
 - Mais detalhada, rígida e rigorosamente documentada	 - Menos formais, mais flexível e colaborativa
+
+
+
+METODOLOGIA SCRUM ----------->
+
+- A metodologia Scrum foi criada em 1993 pelos engenheiros Jeff Sutherland e Ken Schwaber, na Easel 
+Corporation. O Scrum é uma metodologia ágil que propõe práticas de planejamento e gerenciamento para 
+desenvolvimento de projetos de produtos e serviços.
+
