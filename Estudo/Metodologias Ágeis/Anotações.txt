@@ -26,3 +26,16 @@ fazerem o mesmo. Através deste trabalho, passamos a valorizar:
 -> RESPONDER a MUDANÇAS mais que seguir um plano
 
 Ou seja, mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.
+
+
+
+DIFERANÇA ENTRE METODOLOGIAS TRADICIONAIS E Ágeis
+
+Tradicionais	                                         Ágeis
+
+- Foco na etapa de planejamento	                         - Foco no desenvolvimento
+- Processos mais longos de desenvolvimento	             - Etapas de desenvolvimento mais curtas
+- Uma etapa só começa após o término da anterior	     - Etapas ocorrem simultaneamente
+- Sem a previsibilidade de eventuais problemas	         - Contempla possíveis mudanças ao longo do processo
+- Resultado é entregue uma única vez	                 - Entregas parciais ao longo do processo
+- Mais detalhada, rígida e rigorosamente documentada	 - Menos formais, mais flexível e colaborativa
