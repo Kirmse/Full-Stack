@@ -48,3 +48,72 @@ METODOLOGIA SCRUM ----------->
 Corporation. O Scrum é uma metodologia ágil que propõe práticas de planejamento e gerenciamento para 
 desenvolvimento de projetos de produtos e serviços.
 
+O Scrum Team é composto pelo Product Owner, Scrum Master e o time ou equipe de desenvolvimento.
+
+- Product Owner (PO)
+O Product Owner (PO) é o dono do projeto, que determina o que e por que fazer. Essa pessoa define 
+os itens da backlog do produto, ou seja, determina quais atividades ou tarefas serão executadas no 
+sprint. O PO auxilia a equipe a ter uma visão clara sobre o objetivo final do produto, mantendo-se 
+disponível para dúvidas.
+
+- Scrum Master (SM)
+O Scrum Master é aquele que foca em como trabalhar melhor, exercendo o papel de facilitador do time 
+durante o processo de desenvolvimento do projeto. Ele assume a responsabilidade de comunicação e
+bloqueador de interferências externas e ajuda a equipe na remoção de impedimentos.
+
+- Team
+O time é a equipe de desenvolvimento. Os integrantes não seguem as restrições de papéis tradicionais 
+(designer, desenvolvedor, por exemplo) e são multifuncionais, além de auto-organizáveis.
+
+O time faz a autogestão e não deve ser tão pequeno que não consiga realizar uma interação, 
+nem tão grande a ponto de gerar complexidade. É comum encontrar times de 4 a 8 pessoas.
+
+
+
+EVENTOS ---------------->
+
+Sprint - Ciclos de entrega, que duram de 2 a 4 semanas.
+
+Sprint Planning - Reunião na qual são selecionadas as funcionalidades que serão priorizadas durante a sprint.
+
+Daily Meeting - Reunião diária de cerca de 15 minutos para esclarecer o que foi realizado, identificar 
+impedimentos e priorizar o que será feito.
+
+Sprint Review - Reunião realizada ao final de cada sprint para demonstrar o trabalho realizado e obter 
+feedback do cliente ou stakeholders.
+
+Sprint Retrospective - Reunião realizada ao final de cada sprint, onde a equipe analisa o que correu bem, 
+o que pode ser melhorado e como pode ajustar o processo para o próximo sprint.
+
+ARTEFATOS ---------------->
+
+Backlog do produto - Lista priorizada de todas as funcionalidades desejadas para o produto, geralmente 
+mantida pelo Product Owner.
+
+Backlog do Sprint - Subset do Backlog do Produto que contém as funcionalidades selecionadas para serem 
+entregues durante a sprint atual.
+
+Incremento/mudança de backlog - Atualização do Backlog do Sprint conforme novas funcionalidades são 
+adicionadas, alteradas ou removidas durante a sprint.
+
+Release - Versão do produto que é entregue ao cliente ou disponibilizada para uso público após a conclusão 
+de uma ou várias sprints.
+
+
+
+SOLUÇÕES DE PROBLEMAS ___________________________________________________
+
+SPIKE => conhecido também como time-box, é uma etapa no desenvolvimento de um projeto em que a equipe 
+busca compreender melhor uma determinada característica ou requisito técnico.
+
+
+DESIGN THINKING tem 4 etapas: 
+
+- Imersão
+ Entender o contexto problema e levantar informações.	
+- Ideação
+ Realizar um brainstorm para encontrar a solução do problema.	
+- Prototipação
+ Selecionar as melhores ideias e criar protótipos.	
+- Desenvolvimento
+ Implementar a melhor solução.	
