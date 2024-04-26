@@ -1,0 +1,6 @@
+<-------------------- Metodologias Ágeis -------------------->
+
+Waterfall (metodologia tradicional)
+
+Início do Projeto --> 
+Levantamento de resquisito // Planejamento técnico // Desenvolvimento // Testes // Entrega em produçãoS
