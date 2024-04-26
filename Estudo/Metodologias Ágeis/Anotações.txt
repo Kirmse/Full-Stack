@@ -88,7 +88,7 @@ o que pode ser melhorado e como pode ajustar o processo para o próximo sprint.
 ARTEFATOS ---------------->
 
 Backlog do produto - Lista priorizada de todas as funcionalidades desejadas para o produto, geralmente 
-mantida pelo Product Owner.
+mantida pelo Product Owner. 
 
 Backlog do Sprint - Subset do Backlog do Produto que contém as funcionalidades selecionadas para serem 
 entregues durante a sprint atual.
@@ -120,4 +120,4 @@ DESIGN THINKING tem 4 etapas:
 
 
 
- Programa gratuíto disponivel para a equipe de trabalho: Trello
+Programa gratuíto disponivel para a equipe de trabalho: Trello
