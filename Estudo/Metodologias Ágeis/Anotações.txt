@@ -117,3 +117,7 @@ DESIGN THINKING tem 4 etapas:
  Selecionar as melhores ideias e criar protótipos.	
 - Desenvolvimento
  Implementar a melhor solução.	
+
+
+
+ Programa gratuíto disponivel para a equipe de trabalho: Trello
