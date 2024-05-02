@@ -13,7 +13,7 @@ prompt
 - Janela na qual se digita linhas de comando.	
 
 
-
+<->-<->-<->-<->-<->-<->-<->-<-> C O M A N D O S   G I T <->-<->-<->-<->-<->-<->-<->-<->-<->-<->
 
 git init
 Cria a estrutura inicial do repositório Git no computador local.
