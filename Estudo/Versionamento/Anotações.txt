@@ -8,3 +8,5 @@ para comunicarem-se.
 
 - No Sistema de Controle de Versão Distribuído (DVCS) há uma cópia de todo o trabalho desenvolvido com 
 o histórico completo de todas as alterações feitas na máquina de cada desenvolvedor.
+
+

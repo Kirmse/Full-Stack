@@ -1,0 +1,46 @@
+O git é -------------------------------->
+
+Git Bash
+- Sistema que emula o prompt de comando estilo Unix.	
+
+Open source
+- O Git é um software que qualquer pessoa pode baixar, usar e modificar o código.	
+
+git config
+- Comando para identificar o nome de usuário e o seu endereço de e-mail.	
+
+prompt
+- Janela na qual se digita linhas de comando.	
+
+
+
+
+git init
+Cria a estrutura inicial do repositório Git no computador local.
+
+git status
+Verifica o status das alterações realizadas no repositório.
+
+git add
+Adiciona arquivos ao histórico do projeto, na staging.
+
+git commit
+Registra/salva a alteração no repositório.
+
+git log
+Permite visualizar as alterações feitas.
+
+git show número-do-commit
+Permite visualizar informações sobre qualquer commit.
+
+git remote add origin "destino"
+Informa a pasta remota.
+
+git remote –v
+Permite visualizar o repositório remoto.
+
+git push -u origin main
+Publica as alterações no repositório remoto.
+
+git pull
+Baixa as alterações no repositório remoto.
