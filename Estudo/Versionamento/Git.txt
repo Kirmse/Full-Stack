@@ -45,8 +45,37 @@ git push -u origin main
 git pull
 -Baixa as alterações no repositório remoto.
 
-git checkout -b “nome da branch”
--criar uma branch.
+ 
+B R A N C H ______________________________________________________________
 
-git checkout main
+-criar uma branch.
+    git checkout -b “nome da branch”
+
 -voltar para a main.
+    git checkout main
+
+
+Você pode realizar esta ação por meio de dois comandos distintos:
+
+-Realizar o download das informações fornecidas pela outra branch, com:
+    git pull origin tarefa/minha-primeira-branch
+
+-Ou fazer a mesclagem com a outra branch, com: 
+    git merge tarefa/minha-primeira-branch
+
+
+T A G ______________________________________________________________
+
+-Para criar uma tag
+    git tag -a <nome da tag> -m <comentário>
+
+-Para ver as tags criadas
+    git tag
+
+-Para ver informações sobre uma tag específica
+    git show <nome da tag>
+
+-Para publicar as tags no repositório
+    git push origin --tags
+
+    
