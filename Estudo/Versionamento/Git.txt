@@ -7,7 +7,7 @@ Open source
 - O Git é um software que qualquer pessoa pode baixar, usar e modificar o código.	
 
 git config
-- Comando para identificar o nome de usuário e o seu endereço de e-mail.	
+- Comando para identificar o nome de usuário e o seu endereço de e-mail.	    
 
 prompt
 - Janela na qual se digita linhas de comando.	
@@ -48,6 +48,10 @@ git pull
  
 B R A N C H ______________________________________________________________
 
+Parte 1 - https://www.youtube.com/watch?v=Vpfd13cydPo 
+Parte 2 - https://www.youtube.com/watch?v=UCzf1brPsg8
+Parte 3 - https://www.youtube.com/watch?v=6eXkhFN5wKA
+
 -criar uma branch.
     git checkout -b “nome da branch”
 
@@ -78,4 +82,3 @@ T A G ______________________________________________________________
 -Para publicar as tags no repositório
     git push origin --tags
 
-    
