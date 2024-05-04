@@ -1,0 +1,29 @@
+    O versionamento de software pode ser descrito como um processo de controle de versões, o que é 
+estabelecido por meio de códigos. Isso permite muito mais visibilidade aos programadores, que 
+conseguem verificar quais foram as mudanças realizadas entre uma versão e outra.
+
+Alguns benefícios de se usar versionamento de código são:
+
+1. Desenvolvimento otimizado -  Tudo fica muito mais simples, as alterações de código são mais ágeis
+e além disso, temos um ambiente mais colaborativo.
+
+2. Melhoria de segurança - Podemos realizar o downgrade para uma versão anterior e garantir que os 
+dados estejam seguros caso algum problema seja detectado em produção.
+
+3. Manutenção de um histórico - Além de permitir publicar versões de acordo com o desenvolvimento,
+também temos a manutenção de um histórico de alterações.
+
+4. Correção de bugs - Podemos manter versões de teste para verificar bugs antes de lançar a nova versão.
+
+5. Ajustes estéticos - Facilita fazer mudanças visuais em versões de teste antes do lançamento final.
+
+    Sendo esses apenas alguns dos vários benefícios de se ter um versionamento de código. 
+Em resumo, o versionamento código facilita o trabalho em equipe, permitindo que cada membro do time faça 
+alterações sem interferir no trabalho dos outros, criando  pequenas versões internas onde os programadores 
+podem trabalhar isoladamente e depois integrar suas alterações.Se ocorrerem erros, é possível reverter
+para versões anteriores, garantindo um processo eficiente de desenvolvimento e lançamento de novas versões.
+
+
+
+Bibliografia:
+- https://gaea.com.br/versionamento-de-software/#:~:text=O%20versionamento%20de%20software%20pode,entre%20uma%20vers%C3%A3o%20e%20outra.
