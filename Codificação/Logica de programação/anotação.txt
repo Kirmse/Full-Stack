@@ -1,0 +1,18 @@
+_____________________________ L Ó G I C A    D E   P R O G R A M A Ç Ã O _____________________________
+
+
+No mundo da tecnologia, se tem o software e o hardware. Mas você sabia que existem 3 TIPOS  de SOFTWARE?
+
+São eles:            Programação            //            Sistema          //            Aplicação
+
+              São softwares que, a partir        Softwares de sistema ou         realizam ações específicas 
+              de linguagens de programação       de base permitem a execu-       solicitadas pelos usuários. 
+              , como Java, Python, Swift,        ção de outros softwares,        Trata-se de programas que 
+              são utilizados para o desen-       São responsáveis pela co-       são executados dentro do 
+              volvimento de outros progra-       municação entre o compu-        sistema operacional. Word, 
+              mas.                               tador e o usuário. Siste-       Excel, paint, bloco de no-
+                                                 mas operacionais, como          tas, calculadora e jogos 
+                                                 Windows, MacOS, Linux, iOS,     são exemplos deste tipo de 
+                                                 Android são exemplos de         software.
+                                                 softwares de sistema.
+
