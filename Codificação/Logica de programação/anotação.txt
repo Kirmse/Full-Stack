@@ -16,3 +16,36 @@ São eles:            Programação            //            Sistema          //
                                                  Android são exemplos de         software.
                                                  softwares de sistema.
 
+
+
+    Podem-se destacar três estruturas fundamentais para o funcionamento adequado do computador: shell, kernell 
+e hardware.
+
+SHELL -------->
+
+É a interface de interação com o usuário, ou seja, onde ele realiza a inserção de dados para solicitar as tarefas e ações desejadas.
+
+Há dois tipos de shell:
+
+CLI (Comand Line Interface) – interface de linha de comando, também chamada de modo texto.
+GUI (Graphical User Interface) – interface gráfica do usuário, também chamada de modo gráfico.
+
+
+KERNELL -------->
+
+Realiza o papel de interação entre o hardware e o software.
+
+
+HARDWARE -------->
+
+São os elementos físicos, como os componentes eletrônicos.
+
+
+
+EXPRESSÕES __________________________________________________________________________
+
+GUI (gráfica)
+CLI (linha de comando)
+SO (sitema operacional)
+
+
