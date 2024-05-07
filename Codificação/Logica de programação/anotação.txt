@@ -49,3 +49,7 @@ CLI (linha de comando)
 SO (sitema operacional)
 
 
+FLUXOGRAMAS. Conheça alguns:
+
+LucidChart
+Draw.io
