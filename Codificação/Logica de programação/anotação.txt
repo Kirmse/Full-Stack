@@ -42,14 +42,30 @@ São os elementos físicos, como os componentes eletrônicos.
 
 
 
-EXPRESSÕES __________________________________________________________________________
-
-GUI (gráfica)
-CLI (linha de comando)
-SO (sitema operacional)
-
-
-FLUXOGRAMAS. Conheça alguns:
+FLUXOGRAMAS. Conheça alguns: <-----------------
 
 LucidChart
 Draw.io
+
+
+
+E S T R U T U R A   D E   D A D O S ____________________________________________________________________
+
+
+- list 
+Uma lista armazena dados do mesmo tipo em sequência. Os dados não precisam estar necessariamente 
+armazenados em sequência física na memória do computador, mas há uma sequência lógica entre eles. 
+Cada elemento da lista é chamado de nó.
+
+- queue
+A fila é uma estrutura do tipo first in first out (FIFO), na qual o primeiro elemento a ser 
+inserido será o primeiro a ser retirado.
+
+- stacks
+A pilha é uma estrutura do tipo last in first out (LIFO). O último elemento a ser inserido será o
+primeiro elemento a ser retirado
+
+- array ou matriz)
+Um vetor é uma estrutura que armazena uma sequência de objetos do mesmo tipo, em posição consecutiva 
+lógica e física, sendo possível alcançar qualquer item diretamente. Não é necessário passar pelo 
+primeiro ou último elemento.
