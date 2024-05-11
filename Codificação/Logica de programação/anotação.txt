@@ -97,3 +97,14 @@ Funcional - Atua com funções chamadas mais de uma vez, que possuem o mesmo res
 aplicadas para resolver problemas que envolvem principalmente paralelismo e/ou processamento de 
 quantidades grandes de dados. Exemplos: Prolog, Lisp, Scheme, ML, Miranda, Haskell, Elixir.
 
+
+
+N Í V E I S   D E   L I N G U A G E N S   D E   P R O G R A M A Ç Ã O __________________________________________
+
+Alto nível -> Linguagens de alto nível são mais intuitivas e amigáveis para o programador. Ela é mais 
+semântica e mais próxima à linguagem natural. Exemplos: JavaScript, Java, C#, PHP.
+
+Baixo nível -> Linguagens de baixo nível são voltadas para o entendimento da máquina. A sintaxe costuma 
+ser mais complexa e menos intuitiva para programador. Assembly é um exemplo de linguagem de baixo nível.
+
+
