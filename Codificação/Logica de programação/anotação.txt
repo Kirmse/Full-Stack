@@ -69,3 +69,17 @@ primeiro elemento a ser retirado
 Um vetor é uma estrutura que armazena uma sequência de objetos do mesmo tipo, em posição consecutiva 
 lógica e física, sendo possível alcançar qualquer item diretamente. Não é necessário passar pelo 
 primeiro ou último elemento.
+
+
+C A R A C T E R Í S T I C A S   D A S   L I N G U A G E N S __________________________________________
+ 
+
+Linguagem de Marcação - são utilizadas para definir a estrutura de uma página ou de um documento,
+A linguagem de marcação HTML (Hyper Text Markup) é uma das mais comuns.
+
+Folha de Estilos - são utilizadas para estilizar os elementos de uma página desenvolvida com uma 
+linguagem de marcação. Exemplo: utilizamos CSS.
+
+Programação - são um conjunto de regras, sintaxes para escrevermos instruções, que farão com que o 
+computador ou software execute alguma ação.
+
