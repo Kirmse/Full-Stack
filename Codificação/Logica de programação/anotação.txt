@@ -74,12 +74,26 @@ primeiro ou último elemento.
 C A R A C T E R Í S T I C A S   D A S   L I N G U A G E N S __________________________________________
  
 
-Linguagem de Marcação - são utilizadas para definir a estrutura de uma página ou de um documento,
+Linguagem de Marcação -> são utilizadas para definir a estrutura de uma página ou de um documento,
 A linguagem de marcação HTML (Hyper Text Markup) é uma das mais comuns.
 
-Folha de Estilos - são utilizadas para estilizar os elementos de uma página desenvolvida com uma 
+Folha de Estilos -> são utilizadas para estilizar os elementos de uma página desenvolvida com uma 
 linguagem de marcação. Exemplo: utilizamos CSS.
 
-Programação - são um conjunto de regras, sintaxes para escrevermos instruções, que farão com que o 
+Programação -> são um conjunto de regras, sintaxes para escrevermos instruções, que farão com que o 
 computador ou software execute alguma ação.
+
+
+T I P O S   D E   L I N G U A G E N S ____________________________________________________________________
+
+Estruturada -> Trabalha apenas com um arquivo, codificando o algoritmo linha após linha seguindo uma 
+sequência lógica de evento. Exemplos: C#, Delphi, Dart, Java, Kotlin, PHP, TypeScript.
+
+Orientada a objeto -> Focando na reutilização de código para facilitar a manutenção de sistemas. 
+Habilidoso na composição e interação entre diversas unidades de software para criar soluções eficientes.
+Exemplos: C++, VB .NET, Java, Object Pascal, Objective-C, Python, SuperColider, Ruby, Smalltalk...
+
+Funcional - Atua com funções chamadas mais de uma vez, que possuem o mesmo resultado de saída. São 
+aplicadas para resolver problemas que envolvem principalmente paralelismo e/ou processamento de 
+quantidades grandes de dados. Exemplos: Prolog, Lisp, Scheme, ML, Miranda, Haskell, Elixir.
 
