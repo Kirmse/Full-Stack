@@ -108,3 +108,17 @@ Baixo nível -> Linguagens de baixo nível são voltadas para o entendimento da 
 ser mais complexa e menos intuitiva para programador. Assembly é um exemplo de linguagem de baixo nível.
 
 
+
+
+
+
+
+Seguem alguns exemplos de frameworks:
+
+Java – Hibernate e Spring
+Ruby – Ruby on Rails
+JavaScript – AngularJS
+Python – Django
+PHP – Zend e Laravel
+C# – ASP .NET
+CSS – Bootstrap
