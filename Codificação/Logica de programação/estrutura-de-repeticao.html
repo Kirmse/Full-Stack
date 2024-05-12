@@ -1,11 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+
+    <body>
+        <h1>Estrutura de repetição</h1>
+        <Script>
+            var resposta;
+            var total = 0;
+            var historico = "";
+
+            do {
+                resposta = prompt("Somente o '0' irá encerrar");
+                historico += resposta + ", ";
+                total += resposta;
+            } while (resposta != 0)
+
+            document.write("<h3>Histórico: " + historico + "</h3>");
+            document.write("<h3>Total: " + total + "</h3>");
+        </Script>
+    </body>
+
+    </html>
