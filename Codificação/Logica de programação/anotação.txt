@@ -99,7 +99,7 @@ quantidades grandes de dados. Exemplos: Prolog, Lisp, Scheme, ML, Miranda, Haske
 
 
 
-N Í V E I S   D E   L I N G U A G E N S   D E   P R O G R A M A Ç Ã O __________________________________________
+N Í V E I S   D E   L I N G U A G E N S   D E   P R O G R A M A Ç Ã O _____________________________________
 
 Alto nível -> Linguagens de alto nível são mais intuitivas e amigáveis para o programador. Ela é mais 
 semântica e mais próxima à linguagem natural. Exemplos: JavaScript, Java, C#, PHP.
@@ -109,8 +109,19 @@ ser mais complexa e menos intuitiva para programador. Assembly é um exemplo de 
 
 
 
+A P I ___________________________________________________________________________________________________
+
+API significa Application Programming Interface ou Interface de Programação de Aplicativo, em português.
+É como um conjunto de regras e instruções que permitem que diferentes softwares se comuniquem entre si 
+pela internet de forma organizada e eficiente.
+
+O Google Maps é exemplo de APIs.  Portanto, por meio de seu código original, o Google Maps permite que 
+outros sites e aplicações utilizem seus dados, adaptando-o para utilizar esse serviço.
 
 
+F R A M E W O R K S _____________________________________________________________________________________
+
+Frameworks usualmente possuem um modelo ou estrutura de códigos prontos a serem seguidos.
 
 
 Seguem alguns exemplos de frameworks:
