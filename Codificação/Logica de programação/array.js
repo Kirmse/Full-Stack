@@ -4,7 +4,7 @@
 // const EstudanteDoNome = "Heleina";
 // console.log(EstudanteDoNome);
 
-// for ----------------------------
+// for ------------------------- for \\
 
 
 // let listaEstudates = ["Helena" , "Enrico" , "Calebe" , "Flora"];
@@ -24,7 +24,7 @@ let inicio = 0;
 // do ------------------------ do \\
 
 do {
-    console.log(listaEstudates[inicio]);
+    // console.log(listaEstudates[inicio]);
     inicio ++;
     
 } while (inicio < quantidadeDeEstudantes);
@@ -34,6 +34,11 @@ do {
 inicio = 0;
 
 while (inicio < quantidadeDeEstudantes) {
-    console.log(listaEstudates[inicio]);
+    // console.log(listaEstudates[inicio]);
     inicio ++;
 }
+
+// push --------------------- push \\
+
+listaEstudates.push("Josué");
+console.log(listaEstudates)
