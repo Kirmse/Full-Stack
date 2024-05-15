@@ -123,7 +123,6 @@ F R A M E W O R K S ____________________________________________________________
 
 Frameworks usualmente possuem um modelo ou estrutura de códigos prontos a serem seguidos.
 
-
 Seguem alguns exemplos de frameworks:
 
 Java – Hibernate e Spring
