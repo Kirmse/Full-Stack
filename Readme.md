@@ -7,17 +7,17 @@
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
            [--config-env=<name>=<envvar>] <command> [<args>]
 ---
-## 📂 Iniciar uma área de trabalho (veja também: git help tutorial)
+## 📂 Iniciar uma área de trabalho (git help tutorial)
    - #### clone: Clonar um repositório para um novo diretório.
    - #### init: Criar um repositório Git vazio ou reinicializar um existente.
 ---
-## ✏️ Trabalhar na alteração atual (veja também: git help everyday)
+## ✏️ Trabalhar na alteração atual (git help everyday)
    - #### add: Adicionar o conteúdo de arquivos ao índice.
    - #### mv: Mover ou renomear um arquivo, diretório ou link simbólico.
    - #### restore: Restaurar arquivos da árvore de trabalho.
    - #### rm: Remover arquivos da árvore de trabalho e do índice.
 ---
-## 🔍 Examinar o histórico e o estado (veja também: git help revisions)
+## 🔍 Examinar o histórico e o estado (git help revisions)
    - #### bisect: Usar busca binária para encontrar o commit que introduziu um erro.
    - #### diff: Mostrar mudanças entre commits, commit e árvore de trabalho, etc.
    - #### grep: Imprimir linhas que correspondem a um padrão.
@@ -34,7 +34,7 @@
    - #### switch: Trocar de branches.
    - #### tag: Criar, listar, deletar ou verificar um objeto de tag assinado com GPG.
 ---
-## 🤝 Colaborar (veja também: git help workflows)
+## 🤝 Colaborar (git help workflows)
    - #### fetch: Baixar objetos e referências de outro repositório.
    - #### pull: Buscar de e integrar com outro repositório ou branch local.
    - #### push: Atualizar referências remotas juntamente com objetos associados.
