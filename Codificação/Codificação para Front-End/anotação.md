@@ -10,7 +10,7 @@
 - orçamento
 #### O documento precisa ser breve, detalhado e objetivo.
 
-##### (Exemplo de entrevista aqui) [https://recursosdidaticos.senai.br/uploads/arquivo/641aec27811c0/docs/podCast_cod_FrontEnd.pdf]
+[Exemplo de entrevista aqui] (https://recursosdidaticos.senai.br/uploads/arquivo/641aec27811c0/docs/podCast_cod_FrontEnd.pdf)
 ---
 
 ## Brainstorm
