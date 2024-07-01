@@ -1,27 +1,43 @@
-# -Briefing.
+# TÉCNICAS DE LEVANTAMENTO DE REQUISITOS
+
+## Briefing.
+
+
 
 ---
 
-# -Brainstorm.
+## Brainstorm.
+
+
 
 ---
 
-# -Questionário.
+## Questionário.
+
+
 
 ---
 
-# -Entrevista.
+## Entrevista.
+
+
 
 ---
 
-# -Etnografia.
+## Etnografia.
+
+
 
 ---
 
-# -Workshop.
+## Workshop.
+
+
 
 ---
 
-# -Prototipagem.
+## Prototipagem.
+
+
 
 ---
