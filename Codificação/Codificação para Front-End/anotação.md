@@ -16,7 +16,18 @@
 ## Brainstorm
 #### Técnica utilizada para levantar sugestões e ideias, a fim de solucionar problemas no desenvolvimento de produtos e serviços.
 
-- 
+####Para que o resultado seja assertivo, é necessário seguir alguns princípios, como:
+
+- Não criticar, debater, julgar ou questionar as pessoas, respeitando, apreciando e ajudando a estimular todas as ideias, pois, caso ocorram críticas no momento em que está ocorrendo uma sessão ou reunião de briefing, pode resultar em bloqueio de ideias em todos os participantes.
+
+- O responsável deve deixar clara qual a meta que tem que ser discutida e qual o objetivo querem alcançar, abrindo espaço para que todos opinem e apresentem o seu ponto de vista.
+
+#### Podemos ter três tipos de brainstorming: estruturado, não estruturado e misto.
+
+| Coluna 1 | Coluna 2 |
+|----------|----------|
+| Linha 1  | Dado 1   |
+| Linha 2  | Dado 2   |
 
 ---
 
