@@ -27,10 +27,10 @@
 | estruturado | não estruturado | misto |
 |----------|----------|----------|
 | Uma ordem preestabelecida é seguida.  | Não tem uma ordem preestabelecida.   |
-| Exemplo:
-Imagine uma roda formada por 10 pessoas. 
-Esse grupo irá apresentar sua ideia e 
-perspectiva sobre o assunto em ordem alfabética.  | Dado 2   |
+| Exemplo: | Exemplo: | Exemplo: |
+Imagine uma roda formada por 10 pessoas.  | Imagine a mesma roda, formada por 10 pessoas, conforme se sentir mais confortável. | magine que na primeira etapa essa roda iniciaria a apresentação por ordem alfabética e |
+Esse grupo irá apresentar sua ideia e perspectiva | só que ao invés de apresentarem seguindo a ordem alfabética, cada pessoa se apresentará 
+sobre o assunto em ordem alfabética.   | 
 
 ---
 
