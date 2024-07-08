@@ -24,10 +24,13 @@
 
 #### Podemos ter três tipos de brainstorming: estruturado, não estruturado e misto.
 
-| Coluna 1 | Coluna 2 |
-|----------|----------|
-| Linha 1  | Dado 1   |
-| Linha 2  | Dado 2   |
+| estruturado | não estruturado | misto |
+|----------|----------|----------|
+| Uma ordem preestabelecida é seguida.  | Não tem uma ordem preestabelecida.   |
+| Exemplo:
+Imagine uma roda formada por 10 pessoas. 
+Esse grupo irá apresentar sua ideia e 
+perspectiva sobre o assunto em ordem alfabética.  | Dado 2   |
 
 ---
 
