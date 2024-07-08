@@ -43,8 +43,6 @@
     Exemplo: Imagine que na primeira etapa essa roda iniciaria a apresentação por ordem alfabética e, na segunda etapa, que é uma segunda sugestão 
     sobre a proposta, cada um fala conforme se sente à vontade.
 
-
-
 ---
 
 ## Questionário
@@ -66,7 +64,16 @@
 ---
 
 ## Workshop
-#### Reunião composta pela equipe de analistas da empresa contratada para desenvolvimento do produto ou serviço e por representantes do cliente, a fim de especificar as necessidades do projeto.
+#### O workshop é uma técnica de levantamento de requisitos, utilizada em uma reunião em grupo, composta por analistas do projeto e stakeholders.
+
+A abordagem feita é sobre onde o produto, serviço ou sistema será inserido.
+
+Em um workshop, podemos utilizar uma técnica já vista por aqui... Você pode imaginar qual é?
+Pense e responda antes de clicar no botão para descobrir qual é a técnica.
+
+### Brainstorming
+
+Logo após a reunião, é criado um documento com informações de requisitos de como o produto, serviço ou sistema será criado ou desenvolvido.
 
 
 ---
