@@ -79,7 +79,20 @@ Logo após a reunião, é criado um documento com informações de requisitos de
 ---
 
 ## Prototipagem
-#### Modelo preliminar ou inicial do produto que apresenta algumas funcionalidades que ele terá.
+### Após determinar todos os requisitos do projeto e concluir a documentação, está na hora de tirar a ideia do papel e torná-la mais real. Essa etapa é chamada de prototipagem.
 
+O protótipo (ou wireframe) é a técnica de design aplicada para o processo inicial de avaliação das telas e de seu funcionamento.
+
+Sua vantagem é que você irá apresentar para o cliente o desenvolvimento gráfico baseado nas respostas do briefing.
+
+Você irá aplicar técnicas para solucionar o problema e irá resolver visualmente, atendendo às necessidades do seu cliente.
+
+Há modelos mais e menos sofisticados de protótipos, com baixa, média e alta complexidade.
+
+- Baixa: O protótipo de baixa fidelidade trata-se de um rascunho de ideias. Esse tipo de protótipo, conhecido como rafe, é o mais fácil e prático de ser desenhado, bastando uma caneta e um bloco de notas para reproduzir as principais características do site.
+
+- Média: O protótipo de média fidelidade é a evolução das melhorias no rafe inicial. Trata-se de um modelo que já pode ser desenvolvido.
+
+- Alta: O protótipo de alta fidelidade já possui elementos de design do produto final e pode apresentar alguma programação para replicar o comportamento de alguns recursos. Esse modelo é mais custoso e leva mais tempo para ser desenvolvido.
 
 ---
