@@ -16,7 +16,7 @@
 ## Brainstorm
 #### Técnica utilizada para levantar sugestões e ideias, a fim de solucionar problemas no desenvolvimento de produtos e serviços.
 
-####Para que o resultado seja assertivo, é necessário seguir alguns princípios, como:
+#### Para que o resultado seja assertivo, é necessário seguir alguns princípios, como:
 
 - Não criticar, debater, julgar ou questionar as pessoas, respeitando, apreciando e ajudando a estimular todas as ideias, pois, caso ocorram críticas no momento em que está ocorrendo uma sessão ou reunião de briefing, pode resultar em bloqueio de ideias em todos os participantes.
 
@@ -26,9 +26,24 @@
 
 1. Estruturado 
 
-##### Uma ordem preestabelecida é seguida.
-##### Exemplo:
-##### Imagine uma roda formada por 10 pessoas. Esse grupo irá apresentar sua ideia e perspectiva sobre o assunto em ordem alfabética.
+Uma ordem preestabelecida é seguida.
+Exemplo: Imagine uma roda formada por 10 pessoas. Esse grupo irá apresentar sua ideia e perspectiva sobre o assunto em ordem alfabética.
+
+2. Não estruturado 
+
+Não tem uma ordem preestabelecida.
+
+Exemplo:Imagine a mesma roda, formada por 10 pessoas, só que ao invés de apresentarem seguindo a ordem alfabética, cada pessoa se apresentará 
+conforme se sentir mais confortável.
+
+3. Misto
+
+Começa estruturado e depois muda para não estruturado.
+
+Exemplo: Imagine que na primeira etapa essa roda iniciaria a apresentação por ordem alfabética e, na segunda etapa, que é uma segunda sugestão 
+sobre a proposta, cada um fala conforme se sente à vontade.
+
+
 
 ---
 
