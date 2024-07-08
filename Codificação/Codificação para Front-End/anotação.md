@@ -111,6 +111,29 @@ Há modelos mais e menos sofisticados de protótipos, com baixa, média e alta c
 ---
 
 
-# USER EXPERIENCE (UX)
+# UI (User Interface)
+## UI se refere à interface do usuário. É o ponto de interação entre o usuário e um dispositivo ou aplicativo digital. O design de UI se concentra na aparência e no layout da interface. Ele inclui elementos como:
 
-### O UX ou experiência do usuário estuda a trajetória ou interação do usuário com o produto ou serviço, ou seja, preocupa-se com o comportamento do usuário. UX é um conceito focado em projetar uma experiência agradável ao usuário final, analisando desde o momento em que ele fez sua pesquisa em um site, o que o motivou a acessá-lo, o que chamou sua atenção primeiro, a qualidade do produto ou serviço recebido até o atendimento pós-venda.
+- Botões
+- Ícones
+- Menus
+- Tipografia
+- Cores
+- Espaçamento
+- Imagens
+
+## O objetivo do design de UI é criar uma interface visualmente atraente e funcional que permita aos usuários interagir facilmente com o produto.
+
+# UX (User Experience)
+UX se refere à experiência do usuário. É a percepção geral e a resposta de uma pessoa ao usar um produto ou serviço. O design de UX envolve a pesquisa e a compreensão das necessidades, comportamentos e motivações dos usuários para criar um produto que ofereça uma experiência positiva. Ele abrange aspectos como:
+
+- Usabilidade
+- Acessibilidade
+- Eficiência
+- Satisfação do usuário
+- Arquitetura da informação
+- Fluxos de usuário
+
+## O objetivo do design de UX é garantir que o produto seja útil, fácil de usar e agradável para o usuário.
+
+![UX vs UI](https://recursosdidaticos.senai.br/uploads/arquivo/641aec27811c0/img/aula-02/20017_me01-uc01-sa01-d02-071-ux-ui-v2.png)
