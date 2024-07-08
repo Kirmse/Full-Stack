@@ -97,16 +97,11 @@ Há modelos mais e menos sofisticados de protótipos, com baixa, média e alta c
 
 ---
 
-- Questionário
-    Lista de perguntas sobre os requisitos do projeto e sua implementação no mercado.	
-- Prototipagem
-    Modelo preliminar ou inicial do produto que apresenta algumas funcionalidades que ele terá.	
-- Etnografia
-    Técnica de observação utilizada para analisar requisitos sociais e culturais.	
-- Workshop
-    Reunião composta pela equipe de analistas da empresa contratada para desenvolvimento do produto ou serviço e por representantes do cliente.	
-- Entrevista
-    A técnica na qual uma equipe é responsável por entrevistar futuros usuários para o serviço ou sistema planejado.	
+- Questionário: Lista de perguntas sobre os requisitos do projeto e sua implementação no mercado.	
+- Prototipagem: Modelo preliminar ou inicial do produto que apresenta algumas funcionalidades que ele terá.	
+- Etnografia: Técnica de observação utilizada para analisar requisitos sociais e culturais.	
+- Workshop: Reunião composta pela equipe de analistas da empresa contratada para desenvolvimento do produto ou serviço e por representantes do cliente.	
+- Entrevista: A técnica na qual uma equipe é responsável por entrevistar futuros usuários para o serviço ou sistema planejado.	
 
 
 ### Qual a diferença entre briefing e brainstorm? 
