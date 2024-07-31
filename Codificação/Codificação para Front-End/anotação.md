@@ -139,6 +139,7 @@ Há modelos mais e menos sofisticados de protótipos, com baixa, média e alta c
 ![UX vs UI](https://recursosdidaticos.senai.br/uploads/arquivo/641aec27811c0/img/aula-02/20017_me01-uc01-sa01-d02-071-ux-ui-v2.png)
 
 ---
+# Atributos das tags
 
 | **Atributo** | **Característica** | **Exemplo** |
 |--------------|--------------------|-------------|
@@ -152,3 +153,32 @@ Há modelos mais e menos sofisticados de protótipos, com baixa, média e alta c
 | **align**    | Define o padrão de alinhamento, como: right (direita), center (centralizado), left (esquerda) e justify (justificado). | `<h2 align="center">Título centralizado</h2>` |
 | **width**    | Determina a largura do elemento. | `<img src="img/bolo1.jpg" width="100%">` |
 | **height**   | Define uma altura para o elemento. | `<img src="img/bolo1.jpg" height="300px">` |
+
+
+# Elementos do Body
+
+## Tag `<nav>`
+
+A tag `<nav>` é usada para reunir links que compõem o menu de navegação principal de um site. Normalmente, ela está incluída dentro do `<header>`. 
+
+Aqui está um exemplo básico de como a tag `<nav>` pode ser usada:
+
+```html
+<nav id="menu">
+  <a href="index.html">home</a>
+  <a href="interna01.html">interna01</a>
+  <a href="interna02.html">interna02</a>
+</nav>
+---
+## Tag `<header>`
+
+A tag `<header>` é usada para definir o cabeçalho de um documento ou de uma seção. Geralmente, ela agrupa um conjunto de elementos importantes, como links de navegação e títulos.
+
+### Exemplo de Uso
+
+```html
+<header>
+  <!-- tag nav aqui -->
+  <h1>Bem-vindo à página de exemplo</h1>
+  <h2>Complemente seus estudos</h2>
+</header>
