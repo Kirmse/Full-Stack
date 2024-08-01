@@ -169,7 +169,8 @@ Aqui está um exemplo básico de como a tag `<nav>` pode ser usada:
   <a href="interna01.html">interna01</a>
   <a href="interna02.html">interna02</a>
 </nav>
----
+```
+
 ## Tag `<header>`
 
 A tag `<header>` é usada para definir o cabeçalho de um documento ou de uma seção. Geralmente, ela agrupa um conjunto de elementos importantes, como links de navegação e títulos.
@@ -182,3 +183,4 @@ A tag `<header>` é usada para definir o cabeçalho de um documento ou de uma se
   <h1>Bem-vindo à página de exemplo</h1>
   <h2>Complemente seus estudos</h2>
 </header>
+```
