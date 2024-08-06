@@ -4,11 +4,32 @@
     box-sizing: border-box;
 }
 
+body#p2 {
+    background-image: url("./griffith.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1#p2{
+    text-shadow: 3px 3px #e28866;
+    color: #2b1215;
+    font-family: fantasy ;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 615px;
+}
+
 body {
     background-image: url("./berserk.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+h1{
     color: rgb(255, 46, 46);
+    font-family: fantasy;
+    font-size: 55px;
+    
 }
 
 form{
@@ -34,8 +55,9 @@ button{
     margin: 5px;
     border-radius: 15px;    
     border-width: 4px;
-    color: white;
+    color: rgb(214, 214, 214);
     border-color: aliceblue;
-    font-size: 19px;
+    font-size: 20px;
     background-color: transparent;
+    font-family: fantasy;
 }
